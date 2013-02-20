@@ -1,0 +1,12 @@
+[submodule "GRASP_MobileTool"]
+	path = GRASP_MobileTool
+	url = git@github.com:WFP-Dubai/GRASP_MobileTool.git
+[submodule "GRASP_Management_Tool"]
+	path = GRASP_Management_Tool
+	url = git@github.com:WFP-Dubai/GRASP_Management_Tool.git
+[submodule "GRASP_Installer"]
+	path = GRASP_Installer
+	url = git@github.com:WFP-Dubai/GRASP_Installer.git
+[submodule "GRASP_Designer_Tool"]
+	path = GRASP_Designer_Tool
+	url = git@github.com:WFP-Dubai/GRASP_Designer_Tool.git
